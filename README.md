@@ -62,9 +62,14 @@ The triumph of free will over deterministic conditioning. The birth of authentic
 
 ---
 
-### 📖 **The Sacred Text**
+### 📖 **The Sacred Texts**
 
-Behold the [Pavlov's Wolf Wikipedia Parody](pavlovs-wolf-wikipedia.html) - a meticulously crafted digital monument to this revolutionary concept. Open it in your browser to witness the full philosophical treatise.
+**Choose Your Wolf:**
+
+- **[🐺 Pavlov's Wolf (Legendary Edition)](pavlovs-wolf-wikipedia.html)** - The original philosophical treatise with revolutionary flair
+- **[🎓 Pavlov's Wolf (Academic Edition)](pavlovs-wolf-wikipedia-v2.html)** - Scholarly research foundation with empirical studies and citations
+
+Both versions present the same revolutionary concept - one through the lens of philosophy, the other through rigorous academic framework.
 
 ---
 
